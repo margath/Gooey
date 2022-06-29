@@ -1,4 +1,4 @@
-wxpython>=4.1.0
+wxPython310>=4.1.2a1
 Pillow>=4.3.0
 psutil>=5.4.2
 colored>=1.3.93
